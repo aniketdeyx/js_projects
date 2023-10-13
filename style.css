@@ -1,0 +1,44 @@
+*{
+  text-align: center;
+}
+body{
+    background-color: rgba(128, 177, 220, 0.516);
+}
+h1{
+    text-align: center;
+}
+button {
+    width: 100px;
+    height: 35px;
+    margin-left: 30px;
+    margin-top: 2px;
+    margin-bottom: 20px;
+    background-color: #fff;
+    /* padding: 1px 30px; */
+    border-radius: 8px;
+    color: #212121;
+    text-decoration: none;
+    border: 2px solid #212121;
+  
+    font-size: 20px;
+  }
+#inline{
+  font-size: 20px;
+  margin-top: 80px;
+  display: inline;
+}
+#height,
+#weight {
+      width: 100px;
+      height: 25px;
+      margin-top: 10px;
+    }
+#guide{
+  margin-top: 100px;
+}
+#results{
+      font-size: 31px;
+}
+#bmi{
+  font-size: 18px;
+}
