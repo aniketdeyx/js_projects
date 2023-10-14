@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(42, 47, 51);
+  }
+  span{
+    color: aliceblue;
+  }
+  #time{
+    font-size: 30px;
+  }
+  .center{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  #clock{
+    color:black;
+    font-size: 40px;
+    background-color: rgb(88, 180, 216);
+    padding: 20px 50px;
+    margin-top: 15px;
+    border-radius: 10px;
+  }
